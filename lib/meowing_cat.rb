@@ -1,5 +1,5 @@
 class Cat
-  attr_accessor :name       #attribute accessor
+  attr_accessor :name       #attribute accessor > instantiates new cat (name)
 
   def meow
     puts "meow!"
